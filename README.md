@@ -14,11 +14,11 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 ---
 
 ## ✅ Current Applications Covered  
-- **Microsoft 365** → Teams, Outlook, OneNote, authentication  
-- **Slack** → messaging, API endpoints  
-- **Salesforce** → CRM sync, API connections  
-- **Google Services** → Chrome sync, OAuth, some APIs  
-- **Other Work SaaS** → common integrations that tie into the above  
+- **Microsoft 365** → Teams, Outlook, OneNote, SharePoint, Authentication  
+- **Salesforce** → CRM core, platform, live agent  
+- **Slack** → app, APIs, CDN, messaging  
+- **Google Core** → Chrome sync, authentication, APIs  
+- (Optional) Zoom/Webex → commented out for now, can be enabled if needed
 
 ---
 
@@ -47,8 +47,8 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 
 ---
 
-## 📅 Changelog   
-- **2025-08-19** → Initial repo created, added Microsoft 365, Slack, Salesforce, Google core services  
+# Changelog  
+- **2025-08-19** → Initial commit (Microsoft 365, Salesforce, Slack, Chrome/Google core services).  
 
 ---
 
