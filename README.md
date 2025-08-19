@@ -5,6 +5,12 @@ The goal is to keep **ad/tracker blocking strong** while ensuring essential work
 
 ---
 
+### Contents
+- [Purpose](#purpose)
+- [Allowed Domains](#allowed-domains)
+- [How to Use](#how-to-use)
+- [Changelog](#changelog)
+
 ## 📌 Purpose  
 AdGuard Home is very aggressive with blocking telemetry and tracking services.  
 While this is great for privacy, some SaaS apps (Slack, Teams, Salesforce, Outlook, etc.) break if critical domains are blocked.  
@@ -30,7 +36,9 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 ---
 
 ## 🛠 How to Use  
-1. Copy the **raw link** to `allowlist.txt`:
+1. Copy the raw URL to `allowlist.txt`.
+2. In AdGuard Home → Filters → Allowlist → Enter a name (“Work Tools”) and the URL.
+3. Save and update lists.
 
 2. In AdGuard Home:  
 - Navigate to **Filters → Allowlists**  
