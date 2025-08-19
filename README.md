@@ -21,7 +21,7 @@ While this is great for privacy, some SaaS apps (Slack, Teams, Salesforce, Outlo
 
 This repo provides a **curated list of allowed domains** so these apps work normally without compromising the ad-blocking experience.  
 
-[Back to top](#readme)
+[Back to top](#adguard-allow-list)
 
 ---
 
@@ -32,7 +32,7 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 - **Google Core** → Chrome sync, authentication, APIs  
 - (Optional) Zoom/Webex → commented out for now, can be enabled if needed  
 
-[Back to top](#readme)
+[Back to top](#adguard-allow-list)
 
 ---
 
@@ -41,7 +41,7 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 - (optional) `README.md` → this documentation  
 - (optional) `changelog.md` → track when/why new domains are added  
 
-[Back to top](#readme)
+[Back to top](#adguard-allow-list)
 
 ---
 
@@ -51,7 +51,7 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 3. Enter a name (e.g., “Work Tools”) and paste the raw GitHub URL.  
 4. **Save** and click **Check for updates** (or restart AdGuard Home).  
 
-[Back to top](#readme)
+[Back to top](#adguard-allow-list)
 
 ---
 
@@ -60,14 +60,14 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 - If an app breaks, check AdGuard’s **Query Log** → add the blocked domain → commit back to this repo.  
 - PRs or suggestions welcome if you see improvements.  
 
-[Back to top](#readme)
+[Back to top](#adguard-allow-list)
 
 ---
 
 ## Changelog
 - **2025-08-19** → Initial commit (Microsoft 365, Salesforce, Slack, Chrome/Google core services).  
 
-[Back to top](#readme)
+[Back to top](#adguard-allow-list)
 
 ---
 
